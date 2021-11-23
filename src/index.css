@@ -35,3 +35,21 @@
 	margin: 40px auto;
 	padding: 20px;
 }
+
+/* List of blogs preview */
+.blog-preview {
+	padding: 10px 16px;
+	margin: 20px 0;
+	border-radius: 5px;
+	border-bottom: 1px #fafafa;
+}
+
+.blog-preview:hover {
+	box-shadow: 3px 6px 9px rgba(0, 0, 0, 0.2);
+}
+
+.blog-preview h2 {
+	font-size: 20px;
+	color: #be5474;
+	margin-bottom: 8px;
+}
