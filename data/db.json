@@ -25,40 +25,10 @@
       "id": 4
     },
     {
-      "title": "fdfgdfg",
-      "body": "dfgdfg",
+      "title": "Last blog",
+      "body": "Terminado el DELETE blog y sumado la pag. 404 cuando el usuario termina en una pagina que no existe. Final del project",
       "author": "mario",
       "id": 5
-    },
-    {
-      "title": "fdfgdfg",
-      "body": "dfgdfg",
-      "author": "mario",
-      "id": 6
-    },
-    {
-      "title": "fdfgdfg",
-      "body": "dfgdfg",
-      "author": "mario",
-      "id": 7
-    },
-    {
-      "title": "fdfgdfg",
-      "body": "dfgdfg",
-      "author": "mario",
-      "id": 8
-    },
-    {
-      "title": "fdfgdfg",
-      "body": "dfgdfg",
-      "author": "mario",
-      "id": 9
-    },
-    {
-      "title": "fdfgdfg",
-      "body": "dfgdfg",
-      "author": "mario",
-      "id": 10
     }
   ]
 }
